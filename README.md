@@ -1,6 +1,8 @@
 Paperclip
 =========
 
+hi,from caozhzh
+
 Paperclip is intended as an easy file attachment library for ActiveRecord. The
 intent behind it was to keep setup as easy as possible and to treat files as
 much like other attributes as possible. This means they aren't saved to their
